@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PR08
 {
-    public partial class Manager : Form
+    public partial class Admin : Form
     {
-        public Manager()
+        public Admin()
         {
             InitializeComponent();
         }
